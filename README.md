@@ -1,6 +1,6 @@
 # Survival in Space: The new order of Zed
 
-![preview](https://github.com/kindingerlek/Survival-in-Space/tree/master/Gallery/4.jpg)
+![preview](Survival-in-Space/Gallery/4.jpg)
 
 The game is a Shoot'Em Up and Survival based in Waves where you must resist the maximum possible scoring points.
 
@@ -15,11 +15,10 @@ The game is a Shoot'Em Up and Survival based in Waves where you must resist the 
 Each enemy that reaches Player will add points in the score, defeating a group of enemies your wave will be increased and a larger group of enemies had appeared (You can check the Wave and the Score at the top right of the screen).
 
 ## Gallery Survival-in-Space/tree/master/Gallery
-![Preview]
-(https://github.com/kindingerlek/Survival-in-Space/blob/master/Gallery/1.jpg)
-![Preview](https://github.com/kindingerlek/Survival-in-Space/tree/master/Gallery/2.jpg)
-![Preview](https://github.com/kindingerlek/Survival-in-Space/tree/master/Gallery/3.jpg)
-![Preview](https://github.com/kindingerlek/Survival-in-Space/tree/master/Gallery/5.jpg)
+![Preview](Survival-in-Space/Gallery/1.jpg)
+![Preview](Survival-in-Space/Gallery/2.jpg)
+![Preview](Survival-in-Space/Gallery/3.jpg)
+![Preview](Survival-in-Space/Gallery/5.jpg)
 
 ## About the Development
 This game was developed for course "Digital Games Programming" in "Opet" institution. We was the first class for recently opened course.
