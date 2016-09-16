@@ -34,11 +34,11 @@ To run the builds, no installation is needed. Just download, open the builds fol
 
 To open project on Unity Editor, just download the project, and open them. Simple as that!
 
-# Requirements
+## Requirements
 To run builds, none requirements is needed.
 To open project, need Unity Editor.
 
-# Important!
+## Important!
 - This game is no longer updated!.
 - This is a unfinished game!
 - This game was originality developed in unity 4.3 and updated to 5.4. Maybe some corruptions, and bugs may appears.
